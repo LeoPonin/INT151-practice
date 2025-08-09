@@ -1,0 +1,16 @@
+test2.js
+tried to use the array method again. I forgot what each one can do in this file(actually forgot everything about js😫), so I tried using filter.
+--------------------------
+test11.js
+let the AI generate a problem for me, and it had a hint saying to use map and filter.
+So, I use filter to create a new array that filter only even num and then use map to create another new array of those even num and *2.
+--------------------------
+testpractice.js
+kinda discover unfamilar things call forEach(quite complicated one). I splited strings into array of words.
+Then do the loop with forEach
+--------------------------
+SO what i got????
+filter-->creat a new array containing only the element that pass the condition
+map-->create a new array that apply the function to each element
+forEach-->check through each of element and do the things (do what function say)
+im so bad at syntax stuff, this might be a huge problem💀💀
