@@ -1,1 +1,4 @@
-test
+hw.js (basically try to understand how it works)
+this given function are compare betqween 2 object if they are same or not
+Object.keys is to get array of keys for both objects then check the length to cut out if it's not the same one
+then check keys similarity using for of

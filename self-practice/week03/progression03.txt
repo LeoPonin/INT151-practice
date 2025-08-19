@@ -1,0 +1,15 @@
+test2.js
+There are 3 types of writing function
+1.function declaration
+2.arrow function
+3.function expression using (function declaration)
+In function expression and arrow funcion, without {} is automated return the value
+but with {} you need to type return blahblahblah to make it return or else it just do it without returning the value
+You cant hoist with arrow function
+-------------------------------------------------------------------------
+test4.js
+function will never be execute without ().
+it can do something like func()() to execute func and funtion inside it.
+-------------------------------------------------------------------------
+test7.js
+default parameter will be call if there are no other given parameter which include undefined but not with null
