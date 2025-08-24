@@ -1,11 +1,12 @@
 function GetFreq(sentence){
-    const words = sentence.split(" ")
-    const wcount = {}
+    
     if(sentence ===null){
         return undefined
     }if(sentence ===undefined){
         return undefined
     }else{
+        const words = sentence.split(" ")
+        const wcount = {}
         for(let i of words){
             if (wcount[i]){
                 wcount[i] +=1;
@@ -14,6 +15,7 @@ function GetFreq(sentence){
             }
             
         }
+        return wcount
     }
 }
 

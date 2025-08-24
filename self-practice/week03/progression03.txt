@@ -13,3 +13,6 @@ it can do something like func()() to execute func and funtion inside it.
 -------------------------------------------------------------------------
 test7.js
 default parameter will be call if there are no other given parameter which include undefined but not with null
+-------------------------------------------------------------------------
+test9.js
+at first I tried to use split before checking the condition null&undifined and it seem does work right so next time I better get parameter and check it before do anything.
