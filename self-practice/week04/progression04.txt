@@ -1,0 +1,2 @@
+test1.js
+array method will apply directly to the original array. unless you use it by callbackfunction it will create new array and apply that method.
