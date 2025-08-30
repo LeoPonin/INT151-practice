@@ -6,4 +6,6 @@ find method will return only the first element that meet the condition.
 ------------------------------------
 test2.js
 toUpperCase inside map is supposed to be function but as I tried .toUpperCase without () it just reference function and return Function name. Then I realized that I need () to make it apply the function 😥
-
+------------------------------------
+problem1.js
+If using arrow fuction I must remember that using {} need to manually use return. (As reckless one I need to keep this in mind.)
