@@ -1,2 +1,9 @@
 test1.js
 array method will apply directly to the original array. unless you use it by callbackfunction it will create new array and apply that method.
+------------------------------------
+test.js
+find method will return only the first element that meet the condition.
+------------------------------------
+test2.js
+toUpperCase inside map is supposed to be function but as I tried .toUpperCase without () it just reference function and return Function name. Then I realized that I need () to make it apply the function 😥
+
