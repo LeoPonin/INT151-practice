@@ -1,0 +1,12 @@
+brute.js
+I joined ctf compettion and some of the problem need to brute force to get the flag, I use python to solve them. Now i wonder, can I also use js?
+so basically this code need to nc to the target address and brute foce their system. (the ip in this code is not real)
+There are many of some weird things going here.
+
+async In JavaScript, async is a keyword used to declare a function that always returns a Promise //AI
+It seem like there are some state in the executed code, using async allow us to use await which pause the function execution until the "Promise" is resolved.
+
+wth is Promise?
+A Promise in JavaScript is an object that represents the result of an asynchronous operation. //AI
+When we ask for something from server we dont get it immediately instead we get promise that say it's done, pending or rejected.
+Well well well this seem to be something that's good to know since in frontend might deal with state quite often.
